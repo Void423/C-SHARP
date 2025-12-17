@@ -1,0 +1,14 @@
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\array\bin\Debug\net10.0\array.exe
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\array\bin\Debug\net10.0\array.deps.json
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\array\bin\Debug\net10.0\array.runtimeconfig.json
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\array\bin\Debug\net10.0\array.dll
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\array\bin\Debug\net10.0\array.pdb
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\array\obj\Debug\net10.0\array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\array\obj\Debug\net10.0\array.AssemblyInfoInputs.cache
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\array\obj\Debug\net10.0\array.AssemblyInfo.cs
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\array\obj\Debug\net10.0\array.csproj.CoreCompileInputs.cache
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\array\obj\Debug\net10.0\array.dll
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\array\obj\Debug\net10.0\refint\array.dll
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\array\obj\Debug\net10.0\array.pdb
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\array\obj\Debug\net10.0\array.genruntimeconfig.cache
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\array\obj\Debug\net10.0\ref\array.dll

@@ -1,0 +1,14 @@
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\testing\bin\Debug\net10.0\testing.exe
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\testing\bin\Debug\net10.0\testing.deps.json
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\testing\bin\Debug\net10.0\testing.runtimeconfig.json
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\testing\bin\Debug\net10.0\testing.dll
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\testing\bin\Debug\net10.0\testing.pdb
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\testing\obj\Debug\net10.0\testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\testing\obj\Debug\net10.0\testing.AssemblyInfoInputs.cache
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\testing\obj\Debug\net10.0\testing.AssemblyInfo.cs
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\testing\obj\Debug\net10.0\testing.csproj.CoreCompileInputs.cache
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\testing\obj\Debug\net10.0\testing.dll
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\testing\obj\Debug\net10.0\refint\testing.dll
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\testing\obj\Debug\net10.0\testing.pdb
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\testing\obj\Debug\net10.0\testing.genruntimeconfig.cache
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\testing\obj\Debug\net10.0\ref\testing.dll

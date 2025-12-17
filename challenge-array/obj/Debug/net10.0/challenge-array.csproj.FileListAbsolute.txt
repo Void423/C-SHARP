@@ -1,0 +1,14 @@
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\challenge-array\bin\Debug\net10.0\challenge-array.exe
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\challenge-array\bin\Debug\net10.0\challenge-array.deps.json
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\challenge-array\bin\Debug\net10.0\challenge-array.runtimeconfig.json
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\challenge-array\bin\Debug\net10.0\challenge-array.dll
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\challenge-array\bin\Debug\net10.0\challenge-array.pdb
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\challenge-array\obj\Debug\net10.0\challenge-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\challenge-array\obj\Debug\net10.0\challenge-array.AssemblyInfoInputs.cache
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\challenge-array\obj\Debug\net10.0\challenge-array.AssemblyInfo.cs
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\challenge-array\obj\Debug\net10.0\challenge-array.csproj.CoreCompileInputs.cache
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\challenge-array\obj\Debug\net10.0\challenge-array.dll
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\challenge-array\obj\Debug\net10.0\refint\challenge-array.dll
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\challenge-array\obj\Debug\net10.0\challenge-array.pdb
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\challenge-array\obj\Debug\net10.0\challenge-array.genruntimeconfig.cache
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\challenge-array\obj\Debug\net10.0\ref\challenge-array.dll

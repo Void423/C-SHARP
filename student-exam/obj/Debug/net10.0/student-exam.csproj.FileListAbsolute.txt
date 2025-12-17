@@ -1,0 +1,14 @@
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\student-exam\bin\Debug\net10.0\student-exam.exe
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\student-exam\bin\Debug\net10.0\student-exam.deps.json
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\student-exam\bin\Debug\net10.0\student-exam.runtimeconfig.json
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\student-exam\bin\Debug\net10.0\student-exam.dll
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\student-exam\bin\Debug\net10.0\student-exam.pdb
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\student-exam\obj\Debug\net10.0\student-exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\student-exam\obj\Debug\net10.0\student-exam.AssemblyInfoInputs.cache
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\student-exam\obj\Debug\net10.0\student-exam.AssemblyInfo.cs
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\student-exam\obj\Debug\net10.0\student-exam.csproj.CoreCompileInputs.cache
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\student-exam\obj\Debug\net10.0\student-exam.dll
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\student-exam\obj\Debug\net10.0\refint\student-exam.dll
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\student-exam\obj\Debug\net10.0\student-exam.pdb
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\student-exam\obj\Debug\net10.0\student-exam.genruntimeconfig.cache
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\student-exam\obj\Debug\net10.0\ref\student-exam.dll

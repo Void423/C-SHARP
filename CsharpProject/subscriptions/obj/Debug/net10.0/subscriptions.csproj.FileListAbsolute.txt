@@ -1,0 +1,14 @@
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\subscriptions\bin\Debug\net10.0\subscriptions.exe
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\subscriptions\bin\Debug\net10.0\subscriptions.deps.json
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\subscriptions\bin\Debug\net10.0\subscriptions.runtimeconfig.json
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\subscriptions\bin\Debug\net10.0\subscriptions.dll
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\subscriptions\bin\Debug\net10.0\subscriptions.pdb
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\subscriptions\obj\Debug\net10.0\subscriptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\subscriptions\obj\Debug\net10.0\subscriptions.AssemblyInfoInputs.cache
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\subscriptions\obj\Debug\net10.0\subscriptions.AssemblyInfo.cs
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\subscriptions\obj\Debug\net10.0\subscriptions.csproj.CoreCompileInputs.cache
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\subscriptions\obj\Debug\net10.0\subscriptions.dll
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\subscriptions\obj\Debug\net10.0\refint\subscriptions.dll
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\subscriptions\obj\Debug\net10.0\subscriptions.pdb
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\subscriptions\obj\Debug\net10.0\subscriptions.genruntimeconfig.cache
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\subscriptions\obj\Debug\net10.0\ref\subscriptions.dll

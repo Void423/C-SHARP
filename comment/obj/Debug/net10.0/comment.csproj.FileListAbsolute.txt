@@ -1,0 +1,14 @@
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\comment\bin\Debug\net10.0\comment.exe
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\comment\bin\Debug\net10.0\comment.deps.json
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\comment\bin\Debug\net10.0\comment.runtimeconfig.json
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\comment\bin\Debug\net10.0\comment.dll
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\comment\bin\Debug\net10.0\comment.pdb
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\comment\obj\Debug\net10.0\comment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\comment\obj\Debug\net10.0\comment.AssemblyInfoInputs.cache
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\comment\obj\Debug\net10.0\comment.AssemblyInfo.cs
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\comment\obj\Debug\net10.0\comment.csproj.CoreCompileInputs.cache
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\comment\obj\Debug\net10.0\comment.dll
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\comment\obj\Debug\net10.0\refint\comment.dll
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\comment\obj\Debug\net10.0\comment.pdb
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\comment\obj\Debug\net10.0\comment.genruntimeconfig.cache
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\comment\obj\Debug\net10.0\ref\comment.dll

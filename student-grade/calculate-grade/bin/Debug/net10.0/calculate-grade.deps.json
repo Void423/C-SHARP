@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "calculate-grade/1.0.0": {
+        "runtime": {
+          "calculate-grade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calculate-grade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

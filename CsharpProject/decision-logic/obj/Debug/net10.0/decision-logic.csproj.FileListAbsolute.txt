@@ -1,0 +1,14 @@
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\decision-logic\bin\Debug\net10.0\decision-logic.exe
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\decision-logic\bin\Debug\net10.0\decision-logic.deps.json
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\decision-logic\bin\Debug\net10.0\decision-logic.runtimeconfig.json
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\decision-logic\bin\Debug\net10.0\decision-logic.dll
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\decision-logic\bin\Debug\net10.0\decision-logic.pdb
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\decision-logic\obj\Debug\net10.0\decision-logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\decision-logic\obj\Debug\net10.0\decision-logic.AssemblyInfoInputs.cache
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\decision-logic\obj\Debug\net10.0\decision-logic.AssemblyInfo.cs
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\decision-logic\obj\Debug\net10.0\decision-logic.csproj.CoreCompileInputs.cache
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\decision-logic\obj\Debug\net10.0\decision-logic.dll
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\decision-logic\obj\Debug\net10.0\refint\decision-logic.dll
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\decision-logic\obj\Debug\net10.0\decision-logic.pdb
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\decision-logic\obj\Debug\net10.0\decision-logic.genruntimeconfig.cache
+C:\Users\tarnished\Documents\Code\LEARN\C-SHARP\CsharpProject\decision-logic\obj\Debug\net10.0\ref\decision-logic.dll
