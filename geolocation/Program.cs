@@ -56,7 +56,7 @@ namespace GeoLocation
                   break;
                }
             }
-            Console.WriteLine($"Region{cities, -20} : {totalPopulation:No} ");
+            Console.WriteLine($"Region{cities, -20} : {totalPopulation:No}");
          }
 
 
